@@ -236,7 +236,7 @@ namespace Vaja___Karica_2.del
                         X.Izris(x);
                     }
                 }
-            } while ((x < 3 || x > 40) && (x != 0) && (izbira != 0));
+            } while ((x < 3 || x > 40) && (x != 0));
 
             Console.ReadKey(true);
         }
